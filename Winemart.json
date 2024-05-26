@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Boat Classic Watch",
+      "category": "Classic",
+      "description": "This is the latest watch with good features",
+      "unitPrice": 360,
+      "productImage": "https://m.media-amazon.com/images/I/61vNo+aPWUL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "productName": "Samsung Classic Watch",
+      "category": "Classic",
+      "description": "This watch have awesome options",
+      "unitPrice": 560,
+      "productImage": "https://images-cdn.ubuy.co.in/6426d674187c0175cd5d033d-smart-watches-for-women-smart-watch-for.jpg"
+    },
+    {
+      "id": "3",
+      "productName": "LG Smart Watch",
+      "category": "Smart",
+      "description": "This is the latest water proof watch",
+      "unitPrice": 410,
+      "productImage": "https://www.gonoise.com/cdn/shop/products/1.5_49769b15-7e0b-45f4-bd92-47e25bf8c357.png?v=1681610912"
+    },
+    {
+      "id": "4",
+      "productName": "Boat Smart Watch",
+      "category": "Smart",
+      "description": "This is the latest water proof watch",
+      "unitPrice": 560,
+      "productImage": "https://m.media-amazon.com/images/I/61vNo+aPWUL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "Samsung Classic Watch",
+      "category": "Classic",
+      "description": "This is the latest watch with good features",
+      "unitPrice": 180,
+      "productImage": "https://images-cdn.ubuy.co.in/6426d674187c0175cd5d033d-smart-watches-for-women-smart-watch-for.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "6c70",
+      "productName": "LG Smart Watch",
+      "unitPrice": 410,
+      "quantity": 2,
+      "total": 820,
+      "userId": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "orderDate": "2024-04-03T10:10:58.823Z",
+      "UserName": "admin",
+      "totalAmount": 1120,
+      "id": "1"
+    },
+    {
+      "orderDate": "2024-04-03T10:21:18.400Z",
+      "UserName": "admin",
+      "totalAmount": 1120,
+      "id": "2"
+    },
+    {
+      "orderDate": "2024-04-04T05:48:56.346Z",
+      "totalAmount": 560,
+      "id": "3"
+    },
+    {
+      "orderDate": "2024-04-04T05:49:19.470Z",
+      "totalAmount": 410,
+      "id": "4"
+    },
+    {
+      "orderDate": "2024-04-05T04:09:20.303Z",
+      "totalAmount": 1680,
+      "id": "5"
+    },
+    {
+      "orderDate": "2024-04-05T04:13:38.319Z",
+      "totalAmount": 5600,
+      "id": "6"
+    },
+    {
+      "orderDate": "2024-04-05T04:46:44.988Z",
+      "totalAmount": 560,
+      "id": "7"
+    },
+    {
+      "orderDate": "2024-04-05T09:38:33.484Z",
+      "totalAmount": 410,
+      "id": "8"
+    },
+    {
+      "orderDate": "2024-04-05T09:39:10.770Z",
+      "totalAmount": 560,
+      "id": "9"
+    },
+    {
+      "orderDate": "2024-04-05T09:49:26.681Z",
+      "totalAmount": 560,
+      "id": "10"
+    },
+    {
+      "orderDate": "2024-04-05T09:58:24.006Z",
+      "totalAmount": 1120,
+      "id": "11"
+    },
+    {
+      "orderDate": "2024-04-05T10:32:59.777Z",
+      "totalAmount": 410,
+      "id": "12"
+    },
+    {
+      "orderDate": "2024-04-05T10:45:46.812Z",
+      "totalAmount": 410,
+      "id": "13"
+    },
+    {
+      "orderDate": "2024-04-05T10:46:01.601Z",
+      "totalAmount": 1530,
+      "id": "14"
+    },
+    {
+      "id": "d4d2",
+      "orderDate": "2024-05-26T03:02:18.291Z",
+      "totalAmount": 820
+    }
+  ],
+  "users": []
+}
